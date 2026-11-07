@@ -18,8 +18,9 @@ Made at intent with Claude Code; the code is private, the ideas aren't.
   colour rules to any Figma file.
 - **Prototype builder** — turns Figma screens into clickable phone prototypes with native-feeling motion, plus
   demo videos and motion specs for developers.
-- **Figma design changes tracker** — shows developers what changed in Figma since the last sprint, as a
-  changelog card and Jira tickets.
+- **Figma design changes tracker** — showed developers what changed in Figma since the last sprint, as a
+  changelog card and Jira tickets. Tested with designers and a developer; retired in 2026 when the team moved to a
+  shared AI project knowledge base.
 
 ## ✨ What I do
 - **Design systems** — variables with light/dark modes, components with clear properties, docs that explain decisions.
