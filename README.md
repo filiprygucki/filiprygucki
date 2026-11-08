@@ -1,21 +1,19 @@
 # Hi, I'm Filip 👋
 
-Product designer, located in Wrocław, Poland. For the past 4+ years I've designed mobile apps for connected
-devices: audio gear, hearing-aid glasses, a baby-formula machine. Most of my work sits where design meets
+Product designer, located in Wrocław, Poland. For 5+ years I've designed mobile apps for high-end connected
+devices across pro audio, hearing health, baby tech and beauty tech. Most of my work sits where design meets
 development: design systems, component and token naming, motion, and handoff that developers can build from
 without guessing. I work with AI every day. I use Claude Code and the Figma connector to build tools, check
 designs against code and turn repeated work into reusable skills.
 
 ## 📱 Shipped
-- **Legato Hearing** — companion app for OTC hearing-aid glasses. Sole UI designer, Jul 2025 → handover Jun 2026.
-  [App Store](https://apps.apple.com/us/app/legato-hearing/id6741169988)
-- **RØDE Central** — the companion app for RØDE microphones on iOS, Android, macOS and Windows. UI lead for the
-  redesign, Dec 2023 → Oct 2024 (released May 2025). [rode.com](https://rode.com/en-pl/apps/rode-central)
+- **RØDE Central** — the companion app for RØDE microphones on iOS, Android, macOS and Windows. Led the UI for
+  the redesign, Dec 2023 → Oct 2024 (released May 2025). [rode.com](https://rode.com/en-pl/apps/rode-central)
 
-## 🛠️ Tools I build
+## 🛠️ Tools I build and maintain
 Made at intent with Claude Code; the code is private, the ideas aren't.
 - **Design system builder** — a Claude skill that applies one naming standard, semantic token tiers and AA
-  colour rules to any Figma file.
+  colour rules to any Figma file. A teammate started it; I maintain and extend it.
 - **Prototype builder** — turns Figma screens into clickable phone prototypes with native-feeling motion, plus
   demo videos and motion specs for developers.
 - **Figma design changes tracker** — showed developers what changed in Figma since the last sprint, as a
